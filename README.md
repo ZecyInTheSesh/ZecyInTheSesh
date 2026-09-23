@@ -1,17 +1,6 @@
-```text
-$ whoami
-Zecy — Developer
-
-$ cat skills.txt
-Go · Docker · Kubernetes · PostgreSQL
-React · TypeScript · Tailwind CSS
-
-$ cat focus.txt
-Cloud Native · AI Infra · Web
-
-$ contact --github
-https://github.com/ZecyInTheSesh
-```
+<p align="center">
+  <img src="./assets/monospace-cv.svg" alt="Zecy — Go · Cloud Native · AI Infra · Web" width="100%" />
+</p>
 
 **English** · [简体中文](./README.zh-CN.md)
 
