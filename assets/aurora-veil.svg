@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="ZecyInTheSesh — Go, Cloud Native, AI Infra, Web">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Animated aurora over a mountain skyline">
   <defs>
     <!-- Sky -->
     <radialGradient id="av-sky" cx="0.5" cy="1" r="1.1">
@@ -123,20 +123,20 @@
 
   <!-- Type — sits on top of horizon -->
   <g font-family="'Fraunces', 'Playfair Display', Georgia, serif">
-    <text x="80" y="368" font-size="64" font-weight="500" font-style="italic" fill="#fef3c7" filter="url(#av-glow)" letter-spacing="-1.5">ZecyInTheSesh</text>
+
   </g>
   <g font-family="'JetBrains Mono', 'IBM Plex Mono', ui-monospace, monospace">
-    <text x="82" y="396" font-size="11" fill="#3fffe6" letter-spacing="3" opacity="0.95">GO · CLOUD NATIVE · AI INFRA · WEB</text>
+
   </g>
-  
+
 
   <!-- Editorial corner mark -->
   <g transform="translate(80,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8" letter-spacing="3">
     <line x1="0" y1="0" x2="14" y2="0" stroke="#94a3b8" stroke-width="0.6"/>
-    <text x="20" y="3">ZECY · GITHUB PROFILE</text>
+
   </g>
   <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8" letter-spacing="3" text-anchor="end">
-    <text x="-20" y="3">BUILD · LEARN · SHARE</text>
+
     <line x1="-14" y1="0" x2="0" y2="0" stroke="#94a3b8" stroke-width="0.6"/>
   </g>
 </svg>

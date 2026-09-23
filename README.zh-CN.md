@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aurora-veil.svg" alt="ZecyInTheSesh — Go · 云原生 · AI Infra · Web 开发" width="100%" />
+  <img src="./assets/aurora-veil.svg" alt="山脉与星空之上的动态极光" width="100%" />
 </p>
 
 <div align="center">

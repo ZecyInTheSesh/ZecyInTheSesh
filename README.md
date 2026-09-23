@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aurora-veil.svg" alt="ZecyInTheSesh — Go · Cloud Native · AI Infra · Web" width="100%" />
+  <img src="./assets/aurora-veil.svg" alt="Animated aurora over a mountain skyline" width="100%" />
 </p>
 
 <div align="center">
