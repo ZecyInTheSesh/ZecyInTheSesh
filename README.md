@@ -2,8 +2,6 @@
   <img src="./assets/monospace-cv.svg" alt="Zecy — Go · Cloud Native · AI Infra · Web" width="100%" />
 </p>
 
-**English** · [简体中文](./README.zh-CN.md)
-
 ---
 
 ### Tech stack
