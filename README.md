@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/aurora-veil.svg" alt="ZecyInTheSesh — Go · Cloud Native · AI Infra · Web" width="100%" />
+</p>
+
 <div align="center">
 
 # Hi there, I'm a developer 👋

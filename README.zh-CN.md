@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/aurora-veil.svg" alt="ZecyInTheSesh — Go · 云原生 · AI Infra · Web 开发" width="100%" />
+</p>
+
 <div align="center">
 
 # 你好，欢迎来到我的 GitHub 👋
