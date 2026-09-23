@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="./assets/aurora-veil.svg" alt="Animated aurora over a mountain skyline" width="100%" />
-</p>
+```text
+$ whoami
+Zecy — Developer
 
-<div align="center">
+$ cat skills.txt
+Go · Docker · Kubernetes · PostgreSQL
+React · TypeScript · Tailwind CSS
 
-# Hi there, I'm a developer 👋
+$ cat focus.txt
+Cloud Native · AI Infra · Web
 
-### Go · Cloud Native · AI Infra · Web
+$ contact --github
+https://github.com/ZecyInTheSesh
+```
 
 **English** · [简体中文](./README.zh-CN.md)
-
-Building with Go, Docker, Kubernetes, React, TypeScript, Tailwind CSS, and PostgreSQL.
-
-</div>
 
 ---
 
@@ -41,5 +42,3 @@ Building with Go, Docker, Kubernetes, React, TypeScript, Tailwind CSS, and Postg
 Thanks for stopping by!
 
 </div>
-
-<!-- Personalize the heading with your name. Add selected projects and contact links once ready. -->

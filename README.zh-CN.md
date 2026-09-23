@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="./assets/aurora-veil.svg" alt="山脉与星空之上的动态极光" width="100%" />
-</p>
+```text
+$ whoami
+Zecy — 开发者
 
-<div align="center">
+$ cat skills.txt
+Go · Docker · Kubernetes · PostgreSQL
+React · TypeScript · Tailwind CSS
 
-# 你好，欢迎来到我的 GitHub 👋
+$ cat focus.txt
+云原生 · AI 基础设施 · Web 开发
 
-### Go · 云原生 · AI Infra · Web 开发
+$ contact --github
+https://github.com/ZecyInTheSesh
+```
 
 [English](./README.md) · **简体中文**
-
-使用 Go、Docker、Kubernetes、React、TypeScript、Tailwind CSS 和 PostgreSQL 构建项目。
-
-</div>
 
 ---
 
@@ -41,5 +42,3 @@
 感谢你的访问！
 
 </div>
-
-<!-- 可将标题替换为你的名字，并在准备好后添加精选项目与联系方式。 -->
