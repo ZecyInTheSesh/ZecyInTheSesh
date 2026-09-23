@@ -6,7 +6,7 @@
 
 **English** · [简体中文](./README.zh-CN.md)
 
-Building with Go, Docker, Kubernetes, React, TypeScript, and PostgreSQL.
+Building with Go, Docker, Kubernetes, React, TypeScript, Tailwind CSS, and PostgreSQL.
 
 </div>
 
@@ -28,6 +28,7 @@ Building with Go, Docker, Kubernetes, React, TypeScript, and PostgreSQL.
 
 ![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 

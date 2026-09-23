@@ -6,7 +6,7 @@
 
 [English](./README.md) · **简体中文**
 
-使用 Go、Docker、Kubernetes、React、TypeScript 和 PostgreSQL 构建项目。
+使用 Go、Docker、Kubernetes、React、TypeScript、Tailwind CSS 和 PostgreSQL 构建项目。
 
 </div>
 
@@ -28,6 +28,7 @@
 
 ![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
