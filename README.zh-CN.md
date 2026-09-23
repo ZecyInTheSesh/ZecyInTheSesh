@@ -1,30 +1,30 @@
 <div align="center">
 
-# Hi there, I'm a developer 👋
+# 你好，欢迎来到我的 GitHub 👋
 
-### Go · Cloud Native · AI Infra · Web
+### Go · 云原生 · AI Infra · Web 开发
 
-**English** · [简体中文](./README.zh-CN.md)
+[English](./README.md) · **简体中文**
 
-Building with Go, Docker, Kubernetes, React, TypeScript, and PostgreSQL.
+使用 Go、Docker、Kubernetes、React、TypeScript 和 PostgreSQL 构建项目。
 
 </div>
 
 ---
 
-### Tech stack
+### 技术栈
 
-**Backend & Data**
+**后端与数据**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Cloud & Infrastructure**
+**云原生与基础设施**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Frontend**
+**前端开发**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,8 +33,8 @@ Building with Go, Docker, Kubernetes, React, TypeScript, and PostgreSQL.
 
 <div align="center">
 
-Thanks for stopping by!
+感谢你的访问！
 
 </div>
 
-<!-- Personalize the heading with your name. Add selected projects and contact links once ready. -->
+<!-- 可将标题替换为你的名字，并在准备好后添加精选项目与联系方式。 -->
