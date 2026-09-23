@@ -26,7 +26,7 @@
 
 **前端开发**
 
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=087EA4)
+![React](./assets/react-badge.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---

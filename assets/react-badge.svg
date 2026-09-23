@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="28" viewBox="0 0 108 28" role="img" aria-label="React">
+  <title>React</title>
+  <rect width="108" height="28" rx="3" fill="#123B64"/>
+  <rect x="5.5" y="3.5" width="21" height="21" rx="3" fill="none" stroke="#FFFFFF"/>
+  <g transform="translate(16 14)" fill="none" stroke="#FFFFFF" stroke-width="0.85">
+    <ellipse rx="8" ry="3"/>
+    <ellipse rx="8" ry="3" transform="rotate(60)"/>
+    <ellipse rx="8" ry="3" transform="rotate(120)"/>
+    <circle r="1.5" fill="#FFFFFF" stroke="none"/>
+  </g>
+  <text x="37" y="18" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1">REACT</text>
+</svg>
